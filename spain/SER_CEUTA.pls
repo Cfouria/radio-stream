@@ -1,0 +1,16 @@
+[playlist]
+File1=http://19643.live.streamtheworld.com:80/SER_CEUTA_SC
+File2=http://19643.live.streamtheworld.com:3690/SER_CEUTA_SC
+File3=http://21283.live.streamtheworld.com:80/SER_CEUTA_SC
+File4=http://21283.live.streamtheworld.com:3690/SER_CEUTA_SC
+File5=http://20043.live.streamtheworld.com:80/SER_CEUTA_SC
+File6=http://20043.live.streamtheworld.com:3690/SER_CEUTA_SC
+File7=http://19093.live.streamtheworld.com:80/SER_CEUTA_SC
+File8=http://19093.live.streamtheworld.com:3690/SER_CEUTA_SC
+File9=http://20723.live.streamtheworld.com:80/SER_CEUTA_SC
+File10=http://20723.live.streamtheworld.com:3690/SER_CEUTA_SC
+Title1=SER_CEUTA_SC
+Title2=SER_CEUTA_SC-Bak
+Length1=-1
+NumberOfEntries=10
+Version=2

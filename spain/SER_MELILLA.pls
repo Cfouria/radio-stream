@@ -1,0 +1,16 @@
+[playlist]
+File1=http://21323.live.streamtheworld.com:80/SER_MELILLA_SC
+File2=http://21323.live.streamtheworld.com:3690/SER_MELILLA_SC
+File3=http://20423.live.streamtheworld.com:80/SER_MELILLA_SC
+File4=http://20423.live.streamtheworld.com:3690/SER_MELILLA_SC
+File5=http://19993.live.streamtheworld.com:80/SER_MELILLA_SC
+File6=http://19993.live.streamtheworld.com:3690/SER_MELILLA_SC
+File7=http://20403.live.streamtheworld.com:80/SER_MELILLA_SC
+File8=http://20403.live.streamtheworld.com:3690/SER_MELILLA_SC
+File9=http://20853.live.streamtheworld.com:80/SER_MELILLA_SC
+File10=http://20853.live.streamtheworld.com:3690/SER_MELILLA_SC
+Title1=SER_MELILLA_SC
+Title2=SER_MELILLA_SC-Bak
+Length1=-1
+NumberOfEntries=10
+Version=2

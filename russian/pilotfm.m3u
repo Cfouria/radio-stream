@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,Пилот FM, Екатеринбург, 100.4 FM (128 kbps mp3)
+https://online.pilotfm.ru/pilot
+#EXTINF:-1,Пилот FM, Екатеринбург, 100.4 FM (32 kbps mp3)
+https://online.pilotfm.ru/pilot32
+#EXTINF:-1,Пилот FM, Екатеринбург, 100.4 FM (64 kbps aacplus)
+https://online.pilotfm.ru/pilot_aacplus
+#EXTINF:-1,Пилот Dance, Екатеринбург (64 kbps aacplus)
+https://online.pilotfm.ru/pilot_dance
+#EXTINF:-1,Пилот Dance, Екатеринбург (128 kbps mp3)
+https://online.pilotfm.ru/pilot_dance_mp3
+#EXTINF:-1,Пилот Secret, Екатеринбург (64 kbps aacplus)
+https://online.pilotfm.ru/pilot_secret
+#EXTINF:-1,Пилот Secret, Екатеринбург (128 kbps mp3)
+https://online.pilotfm.ru/pilot_secret_mp3
+#EXTINF:-1,Пилот Lounge, Екатеринбург (64 kbps aacplus)
+https://online.pilotfm.ru/pilot_lounge
+#EXTINF:-1,Пилот Lounge, Екатеринбург (128 kbps mp3)
+https://online.pilotfm.ru/pilot_lounge_mp3

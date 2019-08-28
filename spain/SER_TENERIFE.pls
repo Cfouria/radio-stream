@@ -1,0 +1,14 @@
+[playlist]
+File1=http://20073.live.streamtheworld.com:80/SER_TENERIFE_SC
+File2=http://20073.live.streamtheworld.com:3690/SER_TENERIFE_SC
+File3=http://21303.live.streamtheworld.com:80/SER_TENERIFE_SC
+File4=http://21303.live.streamtheworld.com:3690/SER_TENERIFE_SC
+File5=http://19393.live.streamtheworld.com:80/SER_TENERIFE_SC
+File6=http://19393.live.streamtheworld.com:3690/SER_TENERIFE_SC
+File7=http://19373.live.streamtheworld.com:80/SER_TENERIFE_SC
+File8=http://19373.live.streamtheworld.com:3690/SER_TENERIFE_SC
+Title1=SER_TENERIFE_SC
+Title2=SER_TENERIFE_SC-Bak
+Length1=-1
+NumberOfEntries=8
+Version=2
